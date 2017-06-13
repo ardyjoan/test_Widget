@@ -12,7 +12,7 @@ Clazz.com.photon.train.MainWidget = Clazz.extend(Clazz.WidgetWithTemplate, {
         },
 
     postRender : function() {
-        //add comment
+        //add another comment
     var  formContainer = $("#baseContainer");
     formWidget = new Clazz.com.photon.train.FormWidget(formContainer);
     formWidget.render(formContainer);
