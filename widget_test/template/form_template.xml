@@ -1,0 +1,18 @@
+<div>
+
+	<form>
+		
+	  Nama:
+	  <input type="text" id="nama"></input>
+	  <br></br>
+	  Kelas:
+	  <input type="text" id="kelas"></input>
+	  <br></br>
+	  NPM :
+	  <input type="text" id="npm"></input>
+	  	  
+	</form> 
+
+<button id="submitB">SUBMIT</button>  
+<button id="viewB">VIEW</button>
+</div>

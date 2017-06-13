@@ -1,0 +1,14 @@
+<div>
+<table style="width:50%" border="5px">
+  <tr>
+    <th>Nama</th>
+    <th>Kelas</th> 
+    <th>NPM</th>
+  </tr>
+    <tr>
+    <td>{{name}}</td>
+    <td>{{kelas}}</td> 
+    <td>{{npm1}}</td>
+  </tr>
+</table>
+</div>
